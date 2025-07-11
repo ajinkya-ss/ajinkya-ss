@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [Department of Applied and Computational Mathematics and Statistics (ACMS)](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
+Welcome! I am **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [Department of Chemistry ](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
 
-I am currently working under the supervision of [Dr. Zhiliang Xu](https://acms.nd.edu/people/zhiliang-xu/), focusing on developing neural network algorithms for higher-dimensional problems.
+I am currently working under the supervision of [Dr. chem](https://acms.nd.edu/people/zhiliang-xu/), focusing on developing neural network algorithms for higher-dimensional problems.
 
-Previously, I completed my **M.Sc. in Mathematics** at the [Indian Institute of Science Education and Research (IISER) Thiruvananthapuram](https://www.iisertvm.ac.in/), Kerala, India, where I worked on my master’s project under the guidance of [Dr. K. R. Arun](https://www.iisertvm.ac.in/faculty/arun).
+Previously, I completed my **M.Sc. in Mathematics** at the [Indian Institute of Science Education and Research (IISER) pune](https://www.iiserpune.ac.in/), Kerala, India, where I worked on my master’s project under the guidance of [Dr.  Anshuman Nag](https://www.iiserpune.ac.in/faculty/).
 
 ======
 
 📫 **You can contact me via:**
 
-- 📧 ajinkya[at]nd.edu
-- 📧 ajinkyashingote26[at]gmail.com
+- 📧 ajinkya@nd.edu
+- 📧 ajinkyashingote26@gmail.com
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
