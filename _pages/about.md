@@ -17,8 +17,8 @@ Previously, I completed my **M.Sc. in Chemistry** at the [Indian Institute of Sc
 
 📫 **You can contact me via:**
 
-- 📧 ajinkya@nd.edu
-- 📧 ajinkyashingote26@gmail.com
+- 📧 ajinkyand.edu
+- 📧 ajinkyashingote26gmail.com
 
 <hr style="margin-top: 2rem;">
 

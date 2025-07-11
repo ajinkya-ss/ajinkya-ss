@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[You can also find the PDF file from here.](http://harihara-m.github.io/files/CV.pdf)
+[You can also find the PDF file from here.](http://ajinkya-ss.github.io/files/CV.pdf)
 
 # Summary
 
