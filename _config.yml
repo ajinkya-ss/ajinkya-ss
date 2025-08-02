@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Ajinkya Shingote"
   pronouns         : # example: "he/him"  
-  bio              : "BSMS| Chemistry| IISER Pune"
-  bio              :"PhD| Material Science and Engineering| University of Notre dame"
+  bio              : "BSMS| Chemistry| IISER Pune | PhD | Material Science and Engineering | University of Notre dame"
+  bio              : ""
   location         : "South Bend, IN"
   employer         : "University of Notre Dame"
   uri              : # URL
