@@ -22,14 +22,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Awards"
+  - title: "More"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
