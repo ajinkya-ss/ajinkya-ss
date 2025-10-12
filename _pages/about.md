@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="image/profile_photo.jpg" alt="Ajinkya Shingote" width="250" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+</p>
 
 Welcome! I am **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [Department of Chemistry ](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
 
