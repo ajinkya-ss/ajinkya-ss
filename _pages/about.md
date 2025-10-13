@@ -8,7 +8,7 @@ redirect_from:
 ---
 <p align="center">
   <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" 
-       style="width:300px; height:300px; object-fit:cover; border-radius:12px;">
+       style="width:900px; height:300px; object-fit:cover; border-radius:12px;">
 </p>
 
 
