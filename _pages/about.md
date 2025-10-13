@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Ajinkya Shingote" width="250" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <img src="image/Quotefancy-2059690-3840x2160.jpg" alt="Banner" 
+       style="width:300px; height:300px; object-fit:cover; border-radius:12px;">
 </p>
 
 
