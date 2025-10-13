@@ -1,4 +1,24 @@
 ---
+<style>
+/* Remove the sidebar and widen the content */
+.sidebar, .page__sidebar {
+  display: none !important;
+}
+
+.page, .page__inner-wrap, .page__content, .initial-content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Optional: remove padding from main container */
+.masthead, .page__hero, .page__footer {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+</style>
+
 permalink: /
 title: "Welcome"
 author_profile: false
