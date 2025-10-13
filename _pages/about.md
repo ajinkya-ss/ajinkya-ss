@@ -1,12 +1,8 @@
 ---
+layout: splash
 permalink: /
 title: "Welcome"
 author_profile: false
-layout: single
-classes: wide
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 <style>
 /* Remove the sidebar and widen the content */
