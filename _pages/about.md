@@ -1,4 +1,13 @@
 ---
+permalink: /
+title: "Welcome"
+author_profile: false
+layout: single
+classes: wide
+redirect_from: 
+  - /about/
+  - /about.html
+---
 <style>
 /* Remove the sidebar and widen the content */
 .sidebar, .page__sidebar {
@@ -18,16 +27,6 @@
   padding: 0 !important;
 }
 </style>
-
-permalink: /
-title: "Welcome"
-author_profile: false
-layout: single
-classes: wide
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 <!-- ========================== -->
 <!-- Full-screen banner section -->
