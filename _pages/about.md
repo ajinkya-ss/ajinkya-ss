@@ -4,10 +4,20 @@ permalink: /
 title: "Welcome"
 author_profile: false
 ---
-<p align="center">
-  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner"
-       style="width:100vw; height:100vh; object-fit:cover; border-radius:0;">
-</p>
+<style>
+.page__inner-wrap, .page__content, .page {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+}
+.initial-content, .page__main {
+  margin-left: 0 !important;
+}
+.sidebar, .page__sidebar, .layout--two-column {
+  display: none !important;
+}
+</style>
 
 
 <!-- ========================== -->
