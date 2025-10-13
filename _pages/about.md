@@ -37,11 +37,29 @@ body, .container {
   color: white;
   font-size: 2em;
   text-decoration: none;
+  cursor: pointer;
 }
 </style>
 
+<!-- ========================== -->
+<!-- Smooth scroll JS -->
+<!-- ========================== -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const arrow = document.querySelector(".scroll-down");
+  const target = document.querySelector("#main-content");
+
+  if(arrow && target){
+    arrow.addEventListener("click", function(e){
+      e.preventDefault();
+      target.scrollIntoView({ behavior: "smooth" });
+    });
+  }
+});
+</script>
+
 <div style="position: relative; width: 100vw; height: 100vh; overflow: hidden;">
-  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
+  <img src="image/banner.jpg" alt="Banner" class="banner-full">
   
   <!-- Optional overlay text -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
@@ -54,6 +72,8 @@ body, .container {
   <!-- Scroll-down arrow -->
   <a href="#main-content" class="scroll-down">▼</a>
 </div>
+
+
 
 📫 **You can contact me via:**
 
