@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="image/Quotefancy-2059690-3840x2160.jpg" alt="Banner" 
+  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" 
        style="width:300px; height:300px; object-fit:cover; border-radius:12px;">
 </p>
 
