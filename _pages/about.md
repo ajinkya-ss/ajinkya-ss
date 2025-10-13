@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "Ajinkya Shingote"
+title: "Welcome"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" 
-       style="width:900px; height:300px; object-fit:cover; border-radius:12px;">
-</p>
+<div style="position: relative; width: 100vw; height: 100vh; overflow: hidden; margin: 0; padding: 0;">
+  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+              color: white; text-align: center; background: rgba(0, 0, 0, 0.4);
+              padding: 20px 40px; border-radius: 12px;">
+    <h1 style="font-size: 2.5em; margin: 0;">Ajinkya Shingote</h1>
+    <p style="font-size: 1.2em; margin: 10px 0 0;">Ph.D. Student · University of Notre Dame</p>
+  </div>
+</div>
+
 
 
 Welcome! I am **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [Department of Chemistry ](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
