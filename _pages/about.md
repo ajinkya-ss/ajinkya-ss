@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome"
-author_profile: false
 layout: single
 classes: wide
 redirect_from: 
@@ -9,17 +8,31 @@ redirect_from:
   - /about.html
 ---
 
+<!-- ========================== -->
+<!-- Full-screen banner section -->
+<!-- ========================== -->
+
 <div style="position: relative; width: 100vw; height: 100vh; overflow: hidden; margin: 0; padding: 0;">
   <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-              color: white; text-align: center; background: rgba(0, 0, 0, 0.4);
+              color: white; text-align: center; background: rgba(0, 0, 0, 0.45);
               padding: 20px 40px; border-radius: 12px;">
-    <h1 style="font-size: 2.5em; margin: 0;">Ajinkya Shingote</h1>
+    <h1 style="font-size: 2.8em; margin: 0;">Ajinkya Shingote</h1>
     <p style="font-size: 1.2em; margin: 10px 0 0;">Ph.D. Student · University of Notre Dame</p>
   </div>
 </div>
 
+<!-- Optional: smooth scroll-down arrow -->
+<a href="#main-content" 
+   style="position:absolute; bottom:30px; left:50%; transform:translateX(-50%);
+          color:white; font-size:2em; text-decoration:none;">▼</a>
+
+<!-- ========================== -->
+<!-- Main content starts here -->
+<!-- ========================== -->
+
+<div id="main-content"></div>
 
 
 
