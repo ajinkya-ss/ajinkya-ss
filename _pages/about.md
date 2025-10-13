@@ -1,11 +1,13 @@
 ---
 permalink: /
 title: "Welcome"
-author_profile: false
+layout: single
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 <div style="position: relative; width: 100vw; height: 100vh; overflow: hidden; margin: 0; padding: 0;">
   <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;">
