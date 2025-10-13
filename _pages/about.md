@@ -1,6 +1,8 @@
 ---
+---
 permalink: /
 title: "Welcome"
+author_profile: false
 layout: single
 classes: wide
 redirect_from: 
