@@ -61,19 +61,17 @@ document.addEventListener("DOMContentLoaded", function() {
 <div style="position: relative; width: 100vw; height: 100vh; overflow: hidden;">
   <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
   
-  <!-- Optional overlay text -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  <!-- Overlay text at the bottom -->
+  <div style="position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%);
               color: white; text-align: center; background: rgba(0, 0, 0, 0.45);
-              padding: 20px 40px; border-radius: 12px;">
-    <h1 style="font-size: 2.8em; margin: 0;">Ajinkya Shingote</h1>
-    <p style="font-size: 1.2em; margin: 10px 0 0;">Ph.D. Student · University of Notre Dame</p>
+              padding: 15px 30px; border-radius: 12px; max-width: 90vw;">
+    <h1 style="font-size: 2.5em; margin: 0;">Ajinkya Shingote</h1>
+    <p style="font-size: 1.1em; margin: 5px 0 0;">Ph.D. Student · University of Notre Dame</p>
   </div>
   
   <!-- Scroll-down arrow -->
   <a href="#main-content" class="scroll-down">▼</a>
 </div>
-
-
 
 📫 **You can contact me via:**
 
