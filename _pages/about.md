@@ -19,20 +19,7 @@ redirect_from:
 
 
 
-Welcome! I am **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [Department of Chemistry ](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
 
-I am a first-year doctoral student specializing in Physical Chemistry, currently conducting research under the guidance 
-of Professor Gregory Hartland. My work focuses on strong exciton–plasmon coupling in metal–semiconductor hybrid 
-structures. Broadly, I am interested in materials chemistry, with a particular passion for designing materials for 
-energy-related applications.
-
-Previously, I completed my **BS-MS. in Chemistry** at the [Indian Institute of Science Education and Research (IISER)](https://www.iiserpune.ac.in/), Pune, India, where I worked on my master’s project under the guidance of [Dr.  Anshuman Nag](https://www.iiserpune.ac.in/faculty/).
-
-======
-
-ALL of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.
-
-======
 
 📫 **You can contact me via:**
 
