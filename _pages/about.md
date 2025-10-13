@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <div style="position: relative; width: 100vw; height: 100vh; overflow: hidden;">
-  <img src="image/banner.jpg" alt="Banner" class="banner-full">
+  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
   
   <!-- Optional overlay text -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
