@@ -30,12 +30,12 @@ body, .container {
 
 /* Optional: scroll-down arrow style */
 .scroll-down {
-  position: absolute;
+  position: bottom;
   bottom: 30px;
   left: 50%;
   transform: translateX(-50%);
   color: white;
-  font-size: 2em;
+  font-size: 1em;
   text-decoration: none;
   cursor: pointer;
 }
