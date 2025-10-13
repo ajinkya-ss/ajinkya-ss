@@ -4,25 +4,11 @@ permalink: /
 title: "Welcome"
 author_profile: false
 ---
-<style>
-/* Remove the sidebar and widen the content */
-.sidebar, .page__sidebar {
-  display: none !important;
-}
+<p align="center">
+  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner"
+       style="width:100vw; height:100vh; object-fit:cover; border-radius:0;">
+</p>
 
-.page, .page__inner-wrap, .page__content, .initial-content {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Optional: remove padding from main container */
-.masthead, .page__hero, .page__footer {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-</style>
 
 <!-- ========================== -->
 <!-- Full-screen banner section -->
