@@ -1,9 +1,14 @@
 ---
-layout: splash
 permalink: /
 title: "Welcome"
+layout: default
 author_profile: false
 ---
+
+<!-- ========================== -->
+<!-- Full-width, full-screen banner -->
+<!-- ========================== -->
+
 <style>
 /* Remove default container margins for full-width homepage */
 body, .container {
@@ -22,14 +27,59 @@ body, .container {
   margin: 0;
   padding: 0;
 }
-</style>
-<img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
 
+/* Optional: scroll-down arrow style */
+.scroll-down {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 2em;
+  text-decoration: none;
+}
+</style>
+
+<div style="position: relative; width: 100vw; height: 100vh; overflow: hidden;">
+  <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
+  
+  <!-- Optional overlay text -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+              color: white; text-align: center; background: rgba(0, 0, 0, 0.45);
+              padding: 20px 40px; border-radius: 12px;">
+    <h1 style="font-size: 2.8em; margin: 0;">Ajinkya Shingote</h1>
+    <p style="font-size: 1.2em; margin: 10px 0 0;">Ph.D. Student · University of Notre Dame</p>
+  </div>
+  
+  <!-- Scroll-down arrow -->
+  <a href="#main-content" class="scroll-down">▼</a>
+</div>
+
+<!-- ========================== -->
+<!-- Main content starts here -->
+<!-- ========================== -->
+
+<div id="main-content" style="padding: 2rem;">
+
+Welcome! I am **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [Department of Chemistry](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
+
+I am a first-year doctoral student specializing in Physical Chemistry, currently conducting research under the guidance 
+of Professor Gregory Hartland. My work focuses on strong exciton–plasmon coupling in metal–semiconductor hybrid 
+structures. Broadly, I am interested in materials chemistry, with a particular passion for designing materials for 
+energy-related applications.
+
+Previously, I completed my **BS-MS in Chemistry** at the [Indian Institute of Science Education and Research (IISER)](https://www.iiserpune.ac.in/), Pune, India, where I worked on my master’s project under the guidance of [Dr. Anshuman Nag](https://www.iiserpune.ac.in/faculty/).
+
+======
+
+ALL of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.
+
+======
 
 📫 **You can contact me via:**
 
-- 📧 ashingot@nd.edu
-- 📧 ajinkya.shingote@students.iiserpune.ac.in
+- 📧 ashingot@nd.edu  
+- 📧 ajinkya.shingote@students.iiserpune.ac.in  
 
 <hr style="margin-top: 2rem;">
 
@@ -62,4 +112,5 @@ body, .container {
     <p style="font-size: 0.9em;">Learn about my interests and life outside PhD work!</p>
   </a>
 
+</div>
 </div>
