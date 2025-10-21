@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <!-- Banner -->
 <div class="banner-section" aria-hidden="false">
-  <img src="{{ '/images/Quotefancy-2059690-3840x2160.jpg' | relative_url }}" alt="Banner" class="banner-full">
+  <img src="/images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
   <div class="banner-overlay" role="banner">
     <h1 style="font-size: 2.5em; margin: 0;">Ajinkya Shingote</h1>
     <p style="font-size: 1.05em; margin: 5px 0 0;">Ph.D. Student · University of Notre Dame</p>
