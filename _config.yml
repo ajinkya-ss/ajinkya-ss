@@ -22,7 +22,7 @@ repository               : "ajinkya-ss/ajinkya-ss.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Images/profile.png"
+  avatar           : "Images/bio-photo-2.png"
   name             : "Ajinkya Shingote"
   pronouns         : # example: "he/him"  
   bio              : "PhD Student at the University of Notre Dame USA"
