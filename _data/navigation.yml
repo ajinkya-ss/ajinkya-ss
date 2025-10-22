@@ -11,7 +11,7 @@ main:
 
 
   - title: "About me"
-    url: /talks/  
+    url: /about/  
 
   - title: "Research intrests"
     url: /portfolio/
