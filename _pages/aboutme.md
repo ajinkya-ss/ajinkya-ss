@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "About Me"
 permalink: /aboutme/
 author_profile: true
@@ -14,14 +14,24 @@ I’m passionate about understanding light–matter interactions and designing m
 
 ---
 
-### 🧪 Background
+### 🎓 Education
 
-I completed my **BS–MS in Chemistry** at the [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), where I worked under **Dr. Anshuman Nag**.
+- **Ph.D. Chemistry**, University of Notre Dame (2023–Present)  
+- **BS–MS Chemistry**, [IISER Pune](https://www.iiserpune.ac.in/)
+
+---
+
+### 🔬 Research Interests
+
+- Exciton–plasmon coupling  
+- Nanomaterial design for optoelectronics  
+- Perovskite–metal hybrid systems
 
 ---
 
 ### 🌱 Outside the Lab
-Outside research, I enjoy exploring science communication, web design, and photography.
+
+I enjoy exploring science communication, web design, and photography.
 
 ---
 
