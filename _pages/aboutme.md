@@ -4,7 +4,6 @@ title: "About Me"
 permalink: /aboutme/
 author_profile: true
 ---
-![Ajinkya Shingote](images/bio-photo-2.jpg){: style="width:150px; border-radius:50%;" }
 
 ## 👋 Hello!
 
