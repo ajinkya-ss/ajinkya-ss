@@ -7,7 +7,7 @@ classes: wide
 ---
 <style>
 .page__content {
-    margin-left: 100px !important; /* adjust spacing */
+    margin-left: 50px !important; /* adjust spacing */
     max-width: 850px;
 }
 </style>
