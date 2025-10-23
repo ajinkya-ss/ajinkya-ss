@@ -3,6 +3,7 @@ layout: single
 title: "About Me"
 permalink: /aboutme/
 author_profile: true
+classes: wide
 ---
 
 ## 👋 Hello!
