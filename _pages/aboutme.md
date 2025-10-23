@@ -7,20 +7,23 @@ classes: wide
 ---
 <style>
 .page__content {
-  margin-left: 50px !important;   /* shifts content right so it clears profile card */
-  margin-right: 40px !important;   /* reduces blank space on right */
-  max-width: 850px !important;     /* controls total width of text block */
+  margin-left: 320px !important;    /* space for profile card */
+  margin-right: 0 !important;       /* remove extra blank margin on right */
+  width: calc(100% - 340px) !important;  /* take remaining horizontal space */
+  max-width: none !important;       /* override theme's default max width */
+  padding-right: 30px !important;   /* small breathing room from edge */
 }
 
 @media screen and (max-width: 768px) {
-  /* On mobile, reset layout so text spans full width */
   .page__content {
     margin-left: auto !important;
     margin-right: auto !important;
-    max-width: 95% !important;
+    width: 95% !important;
+    padding: 0 !important;
   }
 }
 </style>
+
 
 ## 👋 Hello!
 
