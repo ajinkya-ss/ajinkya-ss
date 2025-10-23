@@ -7,7 +7,7 @@ classes: wide
 ---
 <style>
 .page__content {
-  margin-left: 320px !important;    /* space for profile card */
+  margin-left: 50px !important;    /* space for profile card */
   margin-right: 0 !important;       /* remove extra blank margin on right */
   width: calc(100% - 340px) !important;  /* take remaining horizontal space */
   max-width: none !important;       /* override theme's default max width */
