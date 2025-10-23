@@ -6,15 +6,31 @@ author_profile: true
 classes: wide
 ---
 <style>
-.page__content {
-  margin-left: 50px !important;    /* space for profile card */
-  margin-right: 0 !important;       /* remove extra blank margin on right */
-  width: calc(100% - 10px) !important;  /* take remaining horizontal space */
-  max-width: none !important;       /* override theme's default max width */
-  padding-right: 30px !important;   /* small breathing room from edge */
+/* Override parent wrapper constraints */
+.page,
+.layout--single .page__inner-wrap {
+  max-width: 100% !important;
+  width: 100% !important;
+  display: flex !important;
 }
 
+/* Control the actual content area */
+.page__content {
+  margin-left: 50px !important;   /* leave space for profile */
+  margin-right: 0 !important;      /* remove right blank space */
+  width: calc(100% - 340px) !important;
+  max-width: 100% !important;
+  padding-right: 30px !important;
+  box-sizing: border-box !important;
+}
+
+/* Responsive behavior for small screens */
 @media screen and (max-width: 768px) {
+  .page,
+  .layout--single .page__inner-wrap {
+    display: block !important;
+  }
+
   .page__content {
     margin-left: auto !important;
     margin-right: auto !important;
@@ -23,6 +39,7 @@ classes: wide
   }
 }
 </style>
+
 
 
 ## 👋 Hello!
