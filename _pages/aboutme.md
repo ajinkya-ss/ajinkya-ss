@@ -5,6 +5,12 @@ permalink: /aboutme/
 author_profile: true
 classes: wide
 ---
+<style>
+.page__content {
+    margin-left: 320px !important; /* adjust spacing */
+    max-width: 850px;
+}
+</style>
 
 ## 👋 Hello!
 
