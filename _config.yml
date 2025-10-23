@@ -354,5 +354,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-include:
-  - assets/css/custom.css
+
