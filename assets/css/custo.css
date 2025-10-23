@@ -1,0 +1,8 @@
+.page__content {
+  margin-left: 320px;  /* pushes main text to the right */
+}
+
+.sidebar {
+  position: fixed;
+  top: 100px;
+}
