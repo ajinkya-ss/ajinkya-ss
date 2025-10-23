@@ -7,8 +7,18 @@ classes: wide
 ---
 <style>
 .page__content {
-    margin-left: 50px !important; /* adjust spacing */
-    max-width: 850px;
+  margin-left: 50px !important;   /* shifts content right so it clears profile card */
+  margin-right: 40px !important;   /* reduces blank space on right */
+  max-width: 850px !important;     /* controls total width of text block */
+}
+
+@media screen and (max-width: 768px) {
+  /* On mobile, reset layout so text spans full width */
+  .page__content {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 95% !important;
+  }
 }
 </style>
 
