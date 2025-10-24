@@ -16,9 +16,9 @@ classes: wide
 .page__content {
   margin-left: 200px !important;
   margin-right: 0 !important;
-  width: calc(100% - 05px) !important;
+  width: calc(100% - 02px) !important;
   max-width: 100% !important;
-  padding-right: 1px !important;
+  padding-right: 0px !important;
   box-sizing: border-box !important;
 }
 
