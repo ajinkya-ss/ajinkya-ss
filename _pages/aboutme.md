@@ -14,7 +14,7 @@ classes: wide
 
 /* initial safe defaults to avoid overlap while JS runs */
 .page__content {
-  margin-left: 320px !important;
+  margin-left: 120px !important;
   margin-right: 0 !important;
   width: calc(100% - 340px) !important;
   max-width: 100% !important;
