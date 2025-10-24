@@ -16,9 +16,9 @@ classes: wide
 
 /* Control the actual content area */
 .page__content {
-  margin-left: 340px !important;   /* leave space for profile */
+  margin-left: 40px !important;   /* leave space for profile */
   margin-right: 0 !important;      /* remove right blank space */
-  width: calc(100% - 340px) !important;
+  width: calc(100% - 40px) !important;
   max-width: 100% !important;
   padding-right: 30px !important;
   box-sizing: border-box !important;
