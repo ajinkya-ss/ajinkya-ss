@@ -126,8 +126,8 @@ Before starting my Ph.D., I earned a **BSMS** in Chemistry from the [**Indian In
 
 ### 🎓 Education
 
-- **Ph.D. Chemistry**, **University of Notre Dame** (2024–Present)  
-- **BS–MS Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/)
+- **Ph.D.** [**Material Science and Engineering:Chemistry**, **University of Notre Dame**](https://mse.nd.edu/people/current-students/) (2024–Present)  
+- **BS–MS**, [**IISER Pune**]([https://www.iiserpune.ac.in/](https://www.iiserpune.ac.in/institute/people/students/?year=2024&degree=BSMS&department=0&alumni=False#Results))
 
 ---
 
