@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 ---
-### 👋 Hello!
+### 
 
 I’m **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [University of Notre Dame](https://chemistry.nd.edu/), working under **Prof. Gregory Hartland**.
 
