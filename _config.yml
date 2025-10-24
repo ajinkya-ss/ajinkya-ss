@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-2357-5122"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Shingote+AS&cauthor_id=39219217"
+  pubmed           : #https://pubmed.ncbi.nlm.nih.gov/?term=Shingote+AS&cauthor_id=39219217
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,9 +59,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/shingote.ajinkya/"
+  instagram        : #https://www.instagram.com/shingote.ajinkya/
   lastfm           : # Username
-  linkedin         : "https://in.linkedin.com/in/ajinkya-shingote-982a771a0"
+  linkedin         : "https://www.linkedin.com/in/ajinkya-shingote-982a771a0/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
