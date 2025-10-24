@@ -6,6 +6,23 @@ author_profile: true
 classes: wide
 ---
 <style>
+/* Center the About Me title */
+.page__title,
+h1.page__title,
+h1 {
+  text-align: center !important;
+  margin-top: 20px !important;
+  margin-bottom: 30px !important;
+}
+
+/* optional: make it a bit bolder and larger */
+.page__title {
+  font-size: 2rem !important;
+  font-weight: 600 !important;
+}
+</style>
+
+<style>
 /* make sure parent wrappers can expand */
 .page, .page__inner-wrap, .layout--single .page__inner-wrap {
   max-width: 100% !important;
