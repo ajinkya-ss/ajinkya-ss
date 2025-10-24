@@ -6,6 +6,12 @@ author_profile: true
 classes: wide
 ---
 <style>
+.page__content p {
+  line-height: 1.8; /* default ~1.4, so 1.8 gives more breathing room */
+}
+</style>
+
+<style>
 .page__title,
 h1.page__title,
 h1 {
