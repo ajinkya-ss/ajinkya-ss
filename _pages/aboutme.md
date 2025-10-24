@@ -112,12 +112,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 ---
-### 
 
-I’m **Ajinkya Shingote**, a Ph.D. student in **Chemistry** at the [University of Notre Dame](https://chemistry.nd.edu/), working under **Prof. Gregory Hartland**.
-
-My research focuses on **strong exciton–plasmon coupling** in metal–semiconductor hybrid nanostructures.  
-I’m passionate about understanding light–matter interactions and designing materials for energy-related applications.
+I am a second-year doctoral student in Physical Chemistry, working under the guidance of **Professor Gregory Hartland** at the **University of Notre Dame**. My research focuses on strong exciton–plasmon coupling in metal–semiconductor hybrid nanostructures. More broadly, I am interested in materials chemistry, with a particular emphasis on designing and understanding materials for energy-related applications.
+Before starting my Ph.D., I earned a **BSMS** in Chemistry from the [**Indian Institute of Science Education and Research (IISER) Pune**](https://www.iiserpune.ac.in/), Maharastra, India, where I completed my master’s project under the mentorship of **Professor Angshuman Nag**.
 
 ---
 
