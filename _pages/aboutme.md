@@ -6,17 +6,14 @@ author_profile: true
 classes: wide
 ---
 <style>
-/* Center the About Me title */
 .page__title,
 h1.page__title,
 h1 {
   text-align: center !important;
   margin-top: 20px !important;
   margin-bottom: 30px !important;
-}
-
-/* optional: make it a bit bolder and larger */
-.page__title {
+  position: relative;
+  left: -40px; /* adjust this value as needed */
   font-size: 2rem !important;
   font-weight: 600 !important;
 }
