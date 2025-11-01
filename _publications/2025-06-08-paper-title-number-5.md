@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Emerging Materials 2023"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+permalink: https://www.iiserpune.ac.in/events/3533/emerging-materials-2023
+excerpt: 'This conference is  is aimed to cover contemporary research findings on the classes of materials including low
+dimensional materials, energy materials, sustainable materials, optoelectronic materials and soft materials. The 
+emphasis will be on rational material design, properties, spectroscopy, modelling and device fabrication. '
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: 'https://www.iiserpune.ac.in/storage/media-library/ff5cfea6-edfa-4ccf-b2e2-8a8ed3f8c1e6.pdf'
+citation: 'Emerging Materials 2023, a conference on the latest research findings on the classes of materials, including 
+low-dimensional materials, energy materials, sustainable materials, optoelectronic materials, and soft 
+materials (volunteer and participant)'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
