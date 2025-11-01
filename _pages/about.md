@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <h2 style="text-align: center;">🔗 Quick Access</h2>
 
   <div class="quick-grid" role="navigation" aria-label="Quick links">
-    <a class="quick-card" href="/publications/" style="background-color: #e6f4ea; color:#14532d;">
+    <a class="quick-card" href="//publications/" style="background-color: #e6f4ea; color:#14532d;">
       <h3>📚 Publications</h3>
       <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
     </a>
@@ -146,17 +146,17 @@ document.addEventListener("DOMContentLoaded", function() {
       <p style="font-size: 0.9em;">Get an overview of my academic and research experience.</p>
     </a>
 
-    <a class="quick-card" href="/project/" style="background-color: #fff4e6; color:#cc6600;">
+    <a class="quick-card" href="//project/" style="background-color: #fff4e6; color:#cc6600;">
       <h3>🧠 Projects</h3>
       <p style="font-size: 0.9em;">Discover my research, academic, and personal projects.</p>
     </a>
 
-    <a class="quick-card" href="/teaching/" style="background-color: #fffde6; color:#997a00;">
+    <a class="quick-card" href="//teaching/" style="background-color: #fffde6; color:#997a00;">
       <h3>📘 Teaching</h3>
       <p style="font-size: 0.9em;">Courses I have assisted or instructed.</p>
     </a>
 
-    <a class="quick-card" href="/year-archive/" style="background-color: #f3e6fa; color:#663399;">
+    <a class="quick-card" href="//year-archive/" style="background-color: #f3e6fa; color:#663399;">
       <h3>🏆 Awards</h3>
       <p style="font-size: 0.9em;">Learn about my interests and life outside PhD work!</p>
     </a>
