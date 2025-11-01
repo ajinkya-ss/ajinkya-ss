@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <h2 style="text-align: center;">🔗 Quick Access</h2>
 
   <div class="quick-grid" role="navigation" aria-label="Quick links">
-    <a class="quick-card" href="//publications/" style="background-color: #e6f4ea; color:#14532d;">
+    <a class="quick-card" url="//publications/" style="background-color: #e6f4ea; color:#14532d;">
       <h3>📚 Publications</h3>
       <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
     </a>
