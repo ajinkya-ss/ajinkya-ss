@@ -19,7 +19,7 @@ h1 {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
   position: relative;
-  left: -50px; /* adjust this value as needed */
+  left: -80px; /* adjust this value as needed */
   font-size: 2rem !important;
   font-weight: 600 !important;
 }
