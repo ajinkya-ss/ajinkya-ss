@@ -5,42 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 <style>
-/* Shift publication content to the right of the sidebar */
-.list__item,
-.list_item,
-.archive,
-.page__content {
-  margin-left: 200px !important;   /* distance from sidebar */
-  margin-right: 0px !important;   /* breathing room on right */
-  width: calc(100% - 200px) !important;  /* total width compensation */
-  max-width: 100% !important;
-  box-sizing: border-box !important;
+/* Target the main publication container */
+.main-content {
+  max-width: 900px;          /* Increase width from default (~700px) */
+  margin-left: 350px;        /* Push content right to clear author profile */
+  margin-right: 50px;        /* Add small right margin for balance */
+  text-align: left;          /* Left-align text */
 }
 
-/* Ensure containers expand properly */
-.page,
-.page__inner-wrap,
-.layout--archive .page__inner-wrap {
-  max-width: 100% !important;
-  width: 100% !important;
+/* Optional: Adjust headings for better alignment */
+.main-content h1, 
+.main-content h2, 
+.main-content h3 {
+  text-align: left;
 }
 
-/* Center the section headings nicely */
-h2 {
-  text-align: center;
-  margin-left: -80px; /* shift slightly left if needed */
-}
-
-/* Mobile-friendly layout */
-@media (max-width: 768px) {
-  .list__item,
-  .list_item,
-  .archive,
-  .page__content {
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: 95% !important;
-  }
+/* If your template uses .page or .page-content instead of .main-content */
+.page, .page-content {
+  max-width: 900px;
+  margin-left: 350px;
+  margin-right: 50px;
+  text-align: left;
 }
 </style>
 
