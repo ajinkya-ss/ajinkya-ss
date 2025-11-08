@@ -40,3 +40,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Fix for publication text overlapping the author profile sidebar */
+#main {
+    /* Creates a new Block Formatting Context (BFC) that forces the 
+       content to flow correctly beside the floated profile box. */
+    overflow: hidden; 
+}
