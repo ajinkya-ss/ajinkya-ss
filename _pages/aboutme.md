@@ -15,11 +15,11 @@ classes: wide
 .page__title,
 h1.page__title,
 h1 {
-  text-align: center !important;
+  text-align: left !important;
   margin-top: 20px !important;
   margin-bottom: 20px !important;
-  position: relative;
-  left: -60px; /* adjust this value as needed */
+  /*position: relative;
+  /*left: -60px; /* adjust this value as needed */
   font-size: 2rem !important;
   font-weight: 600 !important;
 }
