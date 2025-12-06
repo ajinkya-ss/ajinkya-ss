@@ -1,6 +1,6 @@
 ---
 title: "Research Interests (Click here for full description)"
-excerpt: "<img src='/images/Gemini_Generated_Image_7puxh27puxh27pux (1).png' alt='portfolio image' style='margin-top:10px;'>"
+excerpt: "<img src='/images/research.png' alt='portfolio image' style='margin-top:10px;'>"
 collection: portfolio
 ---
 Broadly, I am interested in materials chemistry and optical spectroscopy, with a particular focus on designing materials for energy-related applications and probing their functionalities using custom-built optical characterization techniques. My current work focuses on probing strong exciton–plasmon coupling in metal–semiconductor hybrid structures via optical spectroscopy.
