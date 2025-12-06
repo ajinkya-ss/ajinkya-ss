@@ -1,11 +1,6 @@
 ---
----
 title: "Research Interests"
 collection: portfolio
-image: "/images/research.png"      # try this name first
-thumbnail: "/images/research.png"  # some themes use thumbnail instead
-featured_image: "/images/research.png" # some other themes
-excerpt: "Exploring materials chemistry and optical spectroscopy."
 ---
 
 ---
