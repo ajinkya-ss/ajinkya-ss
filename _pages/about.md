@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", function() {
       <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
     </a>
 
-    <a class="quick-card" href="https://ajinkya-ss.github.io/ajinkya-ss//files/CV.pdf" style="background-color: #e6f0fa; color:#003366;">
+    <a class="quick-card" href="https://ajinkya-ss.github.io/ajinkya-ss//files/AJINKYA_CV (1).pdf" style="background-color: #e6f0fa; color:#003366;">
       <h3>📄 CV</h3>
       <p style="font-size: 0.9em;">Get an overview of my academic and research experience.</p>
     </a>
