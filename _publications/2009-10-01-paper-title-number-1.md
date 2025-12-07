@@ -10,6 +10,6 @@ slidesurl: 'https://onlinelibrary.wiley.com/doi/10.1002/smll.202406735'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/smll.202406735'
 bibtexurl: 'https://onlinelibrary.wiley.com/doi/10.1002/smll.202406735'
 citation: 'Parikshit Kumar Rajput, Parashurama Salunkhe, Manmayuri Sarma, Meghasree Basu, Animesh Gopal, Aprajita 
-Joshi, Ajinkya Sundarnath Shingote, Surajit Saha, Atikur Rahman, and Angshuman Nag.
+Joshi, Ajinkya Sundarnath Shingote, Surajit Saha, Atikur Rahman, and Angshuman Nag.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
