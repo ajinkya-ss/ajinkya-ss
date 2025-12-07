@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", function() {
       <p style="font-size: 0.9em;">Get an overview of my academic and research experience.</p>
     </a>
 
-    <a class="quick-card" href="https://ajinkya-ss.github.io/ajinkya-ss//project/" style="background-color: #fff4e6; color:#cc6600;">
+    <a class="quick-card" href="https://ajinkya-ss.github.io/ajinkya-ss//portfolio/" style="background-color: #fff4e6; color:#cc6600;">
       <h3>🧠 Projects</h3>
       <p style="font-size: 0.9em;">Discover my research, academic, and personal projects.</p>
     </a>
