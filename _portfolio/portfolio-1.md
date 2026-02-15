@@ -6,7 +6,7 @@ collection: portfolio
 <div class="banner-section" aria-hidden="false">
   <img src="{{ '/images/Hartland lab.jpg' | relative_url }}" alt="Banner" class="banner-full">
   <div class="banner-overlay" role="banner">
-    <h2>Advancing Sustainable Energy Solutions</h2>
+    <h2>Optical microscopy and spectrocopy</h2>
   </div>
 </div>
 ---
