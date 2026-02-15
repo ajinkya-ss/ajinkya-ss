@@ -4,11 +4,8 @@ collection: portfolio
 ---
 <!-- Banner -->
 <div class="banner-section" aria-hidden="false">
-  <img src="images/research.jpg" alt="Banner" class="banner-full">
+  <img src="images/research.png" alt="Banner" class="banner-full">
   <div class="banner-overlay" role="banner">
-    <div class="banner-section">
-  <img src="{{ '/images/research.jpg' | relative_url }}" alt="Research Banner" class="banner-full">
-  <div class="banner-overlay">
     <h2>Advancing Sustainable Energy Solutions</h2>
   </div>
 </div>
