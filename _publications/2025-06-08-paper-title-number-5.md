@@ -7,7 +7,7 @@ excerpt: 'This conference is  is aimed to cover contemporary research findings o
 dimensional materials, energy materials, sustainable materials, optoelectronic materials and soft materials. The 
 emphasis will be on rational material design, properties, spectroscopy, modelling and device fabrication. '
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'IISER Pune'
 paperurl: 'https://www.iiserpune.ac.in/storage/media-library/ff5cfea6-edfa-4ccf-b2e2-8a8ed3f8c1e6.pdf'
 ---
 
