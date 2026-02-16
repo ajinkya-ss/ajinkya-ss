@@ -5,7 +5,7 @@ category: conferences
 permalink: http://dr.iiserpune.ac.in:8080/jspui/handle/123456789/6614
 excerpt: 'This paper is about Low Dimensional Materials.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: '_GitHub Journal of Bugs_'
 paperurl: 'http://dr.iiserpune.ac.in:8080/jspui/handle/123456789/6614'
 citation: 'Low Dimensional Materials 2022, a conference on recent advancements in low-dimensional materials with talks from international researchers (participant)  SPSI Macro 2022, International Conference on Polymer Science and Technology (participant)'
 ---
