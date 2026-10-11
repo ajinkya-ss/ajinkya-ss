@@ -14,7 +14,7 @@ main:
     url: /aboutme/  
 
   - title: "Research interests"
-    url: /portfolio/
+    url: /portfolio/portfolio-1/
 
   - title: "Publications"
     url: /publications/
