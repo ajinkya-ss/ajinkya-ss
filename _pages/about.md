@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <img src="images/Quotefancy-2059690-3840x2160.jpg" alt="Banner" class="banner-full">
   <div class="banner-overlay" role="banner">
     <h1 style="font-size: 2.5em; margin: 0;">Ajinkya Shingote</h1>
-    <p style="font-size: 1.05em; margin: 5px 0 0;">Ph.D. Student · University of Notre Dame</p>
+    <p style="font-size: 1.05em; margin: 5px 0 0;">Ph.D. Candidate · Physical &amp; Materials Chemistry · University of Notre Dame</p>
   </div>
   <a href="#main-content" class="scroll-down" aria-label="Scroll to main content">▼</a>
 </div>
@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", function() {
       <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
     </a>
 
-    <a class="quick-card" href="https://ajinkya-ss.github.io/ajinkya-ss//files/AJINKYA_CV (1).pdf" style="background-color: #e6f0fa; color:#003366;">
+    <a class="quick-card" href="https://ajinkya-ss.github.io/ajinkya-ss//files/Ajinkya_Shingote_CV.pdf" style="background-color: #e6f0fa; color:#003366;">
       <h3>📄 CV</h3>
       <p style="font-size: 0.9em;">Get an overview of my academic and research experience.</p>
     </a>
