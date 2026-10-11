@@ -96,6 +96,24 @@ author_profile: false
 @media (max-width: 420px) {
   .quick-card { flex: 1 1 100%; max-width: none; }
 }
+
+/* Phones and tablets: show the whole banner image instead of cropping it to
+   the screen height, and put the name box below the image */
+@media (max-width: 57.8em) {
+  .banner-section { height: auto; }
+  .banner-full { height: auto; }
+  .banner-overlay {
+    position: static;
+    transform: none;
+    max-width: none;
+    border-radius: 0;
+    background: #2f3132;
+    padding: 15px 20px 40px;
+  }
+  .banner-overlay h1 { font-size: 2em !important; }
+  /* let long email addresses wrap instead of overflowing */
+  #main-content li { overflow-wrap: anywhere; }
+}
 </style>
 
 <script>

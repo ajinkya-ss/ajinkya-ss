@@ -41,12 +41,18 @@ h1 {
   box-sizing: border-box !important;
 }
 
-/* mobile behaviour */
-@media (max-width: 768px) {
+/* mobile and tablet behaviour: below 57.8125em (925px) the theme stacks the
+   sidebar above the content, so drop the side offsets */
+@media (max-width: 57.8em) {
   .page__content {
     margin-left: auto !important;
     width: 95% !important;
     padding-right: 0 !important;
+  }
+  .page__title,
+  h1.page__title,
+  h1 {
+    left: 0 !important;
   }
 }
 </style>

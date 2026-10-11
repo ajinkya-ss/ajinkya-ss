@@ -21,6 +21,16 @@ classes: wide
 }
 .page__content table.education-table td:first-child { width: 65%; }
 .page__content table.education-table td:last-child  { width: 35%; }
+
+/* phones: stack each row so the degree and advisor each get the full width */
+@media (max-width: 37.5em) {
+  .page__content table.education-table,
+  .page__content table.education-table tbody,
+  .page__content table.education-table tr,
+  .page__content table.education-table td { display: block; width: 100% !important; }
+  .page__content table.education-table td { border-right: 0; }
+  .page__content table.education-table td:first-child { border-bottom: 0; padding-bottom: 0; }
+}
 </style>
 
 <style>
@@ -54,12 +64,18 @@ h1 {
   box-sizing: border-box !important;
 }
 
-/* mobile behaviour */
-@media (max-width: 768px) {
+/* mobile and tablet behaviour: below 57.8125em (925px) the theme stacks the
+   sidebar above the content, so drop the side offsets */
+@media (max-width: 57.8em) {
   .page__content {
     margin-left: auto !important;
     width: 95% !important;
     padding-right: 0 !important;
+  }
+  .page__title,
+  h1.page__title,
+  h1 {
+    left: 0 !important;
   }
 }
 </style>

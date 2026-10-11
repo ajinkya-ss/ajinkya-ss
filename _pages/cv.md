@@ -11,7 +11,7 @@ redirect_from:
 
 <a href="{{ base_path }}/files/Ajinkya_Shingote_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
 
-**Ph.D. Candidate | Physical & Materials Chemistry.** Investigating nanoscale light–matter interactions via single-particle optical spectroscopy to establish fundamental design principles for next-generation optoelectronic devices.
+**Ph.D. Candidate \| Physical & Materials Chemistry.** Investigating nanoscale light–matter interactions via single-particle optical spectroscopy to establish fundamental design principles for next-generation optoelectronic devices.
 
 Education
 ======
