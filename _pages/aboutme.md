@@ -12,6 +12,18 @@ classes: wide
 </style>
 
 <style>
+/* Education table: use the page's text size (theme tables default to 0.75em)
+   and give every row the same column widths */
+.page__content table.education-table {
+  font-size: inherit;
+  table-layout: fixed;
+  width: 100%;
+}
+.page__content table.education-table td:first-child { width: 65%; }
+.page__content table.education-table td:last-child  { width: 35%; }
+</style>
+
+<style>
 .page__title,
 h1.page__title,
 h1 {
@@ -127,9 +139,10 @@ Before starting my Ph.D., I earned my B.S. and M.S. in Chemistry from the [**Ind
 
 ### 🎓 Education
 
-- **Ph.D., Chemistry**, [**University of Notre Dame**](https://www.nd.edu/) (2024–2029, expected) | Advisor: Prof. Gregory Hartland
-- **M.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2023–2024)                 | Advisor: Prof. Angshuman Nag
-- **B.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2019–2023)                 | Advisor: Prof. Pramod Pillai
+| **Ph.D., Chemistry**, [**University of Notre Dame**](https://www.nd.edu/) (2024–2029, expected) | Advisor: Prof. Gregory Hartland |
+| **M.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2023–2024) | Advisor: Prof. Angshuman Nag |
+| **B.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2019–2023) | Advisor: Prof. Pramod Pillai |
+{: .education-table}
 
 ---
 
