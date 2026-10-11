@@ -122,22 +122,21 @@ document.addEventListener('DOMContentLoaded', function () {
 I am a Ph.D. candidate in Physical & Materials Chemistry at the [**University of Notre Dame**](https://www.nd.edu/), working under the guidance of [**Professor Gregory Hartland**](https://sites.nd.edu/hartland-group/?page_id=5). My research investigates nanoscale light–matter interactions using single-particle optical spectroscopy, with the goal of establishing fundamental design principles for next-generation optoelectronic devices. I currently study exciton–plasmon coupling in metal–semiconductor hybrid nanostructures using a custom-built Fourier-space optical imaging setup, complemented by electromagnetic simulations in COMSOL Multiphysics.
 Before starting my Ph.D., I earned my B.S. and M.S. in Chemistry from the [**Indian Institute of Science Education and Research (IISER) Pune**](https://www.iiserpune.ac.in/), Maharashtra, India, where I completed my master’s project under the mentorship of [**Professor Angshuman Nag**](https://angshumaniiserpune.wixsite.com/grouppage). At IISER Pune, my research focused on luminescent halide perovskites, from short-wave infrared (SWIR) emitting double perovskites to the structure and exciton dynamics of layered hybrid perovskites.
 
-📄 [**Download my CV (PDF)**]({{ '/files/Ajinkya_Shingote_CV.pdf' | relative_url }})
 
 ---
 
 ### 🎓 Education
 
 - **Ph.D., Chemistry**, [**University of Notre Dame**](https://www.nd.edu/) (2024–2029, expected) | Advisor: Prof. Gregory Hartland
-- **M.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2023–2024) | Advisor: Prof. Angshuman Nag
-- **B.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2019–2023) | Advisor: Prof. Pramod Pillai
+- **M.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2023–2024)                 | Advisor: Prof. Angshuman Nag
+- **B.S., Chemistry**, [**IISER Pune**](https://www.iiserpune.ac.in/) (2019–2023)                 | Advisor: Prof. Pramod Pillai
 
 ---
 
 ### 🔬 Research Interests
 
-- Exciton–plasmon coupling and polariton propagation in hybrid nanostructures
-- Single-particle optical spectroscopy and Fourier-space (energy–momentum) imaging
+- Exciton–plasmon coupling in hybrid nanostructures
+- Single-particle optical spectroscopy and Microscopy
 - Ultrafast spectroscopy studies of single nanostructures
 - Electromagnetic simulations of light–matter interactions (COMSOL Multiphysics)
 - Luminescent halide perovskites for optoelectronic devices
@@ -146,7 +145,7 @@ Before starting my Ph.D., I earned my B.S. and M.S. in Chemistry from the [**Ind
 
 ### 🌱 Outside the Lab
 
-When I'm not in the lab, you'll find me juggling, bowling, or working out at the gym. I also enjoy reading books on psychology and personal development, watching documentaries, and exploring science communication, web design, and photography.
+When I'm not in the lab, you'll find me juggling, bowling, or working out at the gym. I also enjoy reading books on psychology and personal development, watching documentaries, web design, and photography.
 
 ---
 
