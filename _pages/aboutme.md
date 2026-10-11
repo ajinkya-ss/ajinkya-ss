@@ -174,7 +174,7 @@ Before starting my Ph.D., I earned my B.S. and M.S. in Chemistry from the [**Ind
 
 ### 🌱 Outside the Lab
 
-When I'm not in the lab, you'll find me juggling, bowling, or working out at the gym. I also enjoy reading books on psychology and personal development, watching documentaries, web design, and photography.
+When I'm not in the lab, you'll find me juggling, bowling, or working out at the gym. I also enjoy reading books on psychology and personal development, watching documentaries, vibe coding, and photography.
 
 ---
 
