@@ -4,7 +4,7 @@ collection: portfolio
 ---
 <!-- Banner -->
 <div class="banner-section" aria-hidden="false">
-  <img src="{{ '/images/Hartland lab.jpg' | relative_url }}" alt="Banner" class="banner-full">
+  <img src="{{ '/images/Research interset.jpg' | relative_url }}" alt="Banner" class="banner-full">
   <div class="banner-overlay" role="banner">
     <h2>Optical microscopy and spectrocopy</h2>
   </div>
