@@ -11,13 +11,13 @@ tags:
 When you focus a laser beam with a lens, the focal length decides two things at once: how small the spot gets, and how long the beam stays that small. I built an interactive poster to show this trade-off. Change the focal length, beam diameter, or wavelength, and both diagrams update live.
 
 <p style="text-align: center; margin: 1.5em 0;">
-  <a href="{{ site.baseurl }}/files/focus-depth.html" target="_blank" rel="noopener">
-    <img src="{{ site.baseurl }}/images/focus-depth-preview.png"
+  <a href="{{ site.baseurl }}/files/focus-depth_1.html" target="_blank" rel="noopener">
+    <img src="{{ site.baseurl }}/images/focus-depth-preview_1.png"
          alt="Interactive poster comparing the focus of a 150 mm and a 250 mm lens"
          style="width: 100%; border-radius: 8px;" />
   </a>
   <br>
-  <a href="{{ site.baseurl }}/files/focus-depth.html" target="_blank" rel="noopener"><strong>Open the interactive poster →</strong></a>
+  <a href="{{ site.baseurl }}/files/focus-depth_1.html" target="_blank" rel="noopener"><strong>Open the interactive poster →</strong></a>
 </p>
 
 Key equations
